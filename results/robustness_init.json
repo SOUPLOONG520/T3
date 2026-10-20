@@ -1,0 +1,36 @@
+{
+  "rows": [
+    {
+      "label": "init=constant",
+      "init": "constant",
+      "eps_floor": 0.0,
+      "init_q": 10.0,
+      "n_sessions": 80,
+      "mean_delta": 0.4622819949185713,
+      "sd_delta": 0.013430450366193624,
+      "converged_frac": 1.0
+    },
+    {
+      "label": "init=nash",
+      "init": "nash",
+      "eps_floor": 0.0,
+      "init_q": 10.0,
+      "n_sessions": 0,
+      "mean_delta": NaN,
+      "sd_delta": NaN,
+      "converged_frac": NaN,
+      "status": "skipped (engine build_env q0 shape bug)"
+    },
+    {
+      "label": "init=grim",
+      "init": "grim",
+      "eps_floor": 0.0,
+      "init_q": 10.0,
+      "n_sessions": 0,
+      "mean_delta": NaN,
+      "sd_delta": NaN,
+      "converged_frac": NaN,
+      "status": "skipped (engine build_env q0 shape bug)"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+label,init,eps_floor,init_q,n_sessions,mean_delta,sd_delta,converged_frac,status
+init=constant,constant,0.0,10.0,80,0.4622819949185713,0.013430450366193624,1.0,
+init=nash,nash,0.0,10.0,0,nan,nan,nan,skipped (engine build_env q0 shape bug)
+init=grim,grim,0.0,10.0,0,nan,nan,nan,skipped (engine build_env q0 shape bug)

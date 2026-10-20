@@ -1,0 +1,60 @@
+cff-version: 1.2.0
+message: "If you use this replication, please cite the original paper (below), not this file."
+title: "Replication: Artificial Intelligence, Algorithmic Pricing, and Collusion"
+abstract: >-
+  Independent replication of Calvano, Calzolari, Denicolo and Pastorello (2020,
+  AER 110(10): 3267-3297). Re-implements the Q-learning pricing environment,
+  the convergence and equilibrium-play diagnostics, the deviation/punishment
+  analysis and the strategy graphs, and resolves an internal calibration
+  inconsistency in the paper's printed demand function (kappa = 1/mu).
+type: software
+authors:
+  - name: "Coursework replication (AI-assisted)"
+repository-code: "https://github.com/OWNER/calvano-2020-algorithmic-pricing-collusion-replication"
+url: "https://doi.org/10.1257/aer.20190623"
+license: MIT
+keywords:
+  - algorithmic collusion
+  - algorithmic pricing
+  - reinforcement learning
+  - Q-learning
+  - Bertrand competition
+  - logit demand
+  - computational economics
+  - replication
+references:
+  - type: article
+    title: "Artificial Intelligence, Algorithmic Pricing, and Collusion"
+    authors:
+      - family-names: Calvano
+        given-names: Emilio
+      - family-names: Calzolari
+        given-names: Giacomo
+      - family-names: Denicolo
+        given-names: Vincenzo
+      - family-names: Pastorello
+        given-names: Sergio
+    journal: American Economic Review
+    volume: 110
+    issue: 10
+    start: 3267
+    end: 3297
+    year: 2020
+    doi: "10.1257/aer.20190623"
+  - type: dataset
+    title: "Replication Data for: Artificial Intelligence, Algorithmic Pricing, and Collusion"
+    authors:
+      - family-names: Calvano
+        given-names: Emilio
+      - family-names: Calzolari
+        given-names: Giacomo
+      - family-names: Denicolo
+        given-names: Vincenzo
+      - family-names: Pastorello
+        given-names: Sergio
+    year: 2020
+    doi: "10.3886/E119462V1"
+    notes: >-
+      The original authors' replication data. This repository is independent and
+      was not derived from it; the calibration note was derived from the published
+      paper alone.

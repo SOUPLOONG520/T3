@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# matplotlib / Jupyter
+.mplconfig/
+.ipynb_checkpoints/
+
+# 本机运行产物（本机路径相关，不应进仓库）
+results/*.log
+results/*.err
+*.log
+*.err
+
+# 大文件（本仓库不含论文 PDF，勿再分发）
+*.pdf
+
+# 编辑器
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# 注意: results/*.npz 与 results/*.csv 是复现产出，**应当**提交

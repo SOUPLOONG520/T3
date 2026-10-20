@@ -1,6 +1,14 @@
 MIT License
 
-Copyright (c) 2026 SOUPLOONG520
+Copyright (c) 2026 Coursework replication (AI-assisted) — independent replication of
+Calvano, Calzolari, Denicolò & Pastorello (2020),
+"Artificial Intelligence, Algorithmic Pricing, and Collusion",
+American Economic Review 110(10): 3267–3297.
+
+This repository is an INDEPENDENT replication written from the published paper
+alone, with AI assistance. It is not affiliated with, endorsed by, or derived from
+the original authors' code or their ICPSR replication package
+(DOI 10.3886/E119462V1).
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

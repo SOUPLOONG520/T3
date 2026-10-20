@@ -1,0 +1,26 @@
+{
+  "time_axis": [
+    800000
+  ],
+  "delta_mean": [
+    0.4566346124408308
+  ],
+  "delta_std": [
+    0.1835004340360466
+  ],
+  "delta_bench": [
+    0.020273371340546905
+  ],
+  "delta_rand": 0.4973570946091781,
+  "n_sessions": 60,
+  "fixed_periods": 800000,
+  "record_every": 5000,
+  "window": 100,
+  "pi_random_per_firm": [
+    0.27990577884653606,
+    0.279905778846536
+  ],
+  "pi_nash": 0.2229266607468735,
+  "pi_mono": 0.33749045950888085,
+  "method": "res.pi_final fallback"
+}

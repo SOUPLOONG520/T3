@@ -1,0 +1,28 @@
+{
+  "rows": [
+    {
+      "shock": [
+        -0.15,
+        0.0,
+        0.15
+      ],
+      "n_sessions": 80,
+      "fixed_periods": 500000,
+      "mean_delta": 0.3485053975456567,
+      "sd_delta": 0.050690862691855486,
+      "converged_frac": 1.0
+    },
+    {
+      "shock": [
+        -0.25,
+        0.0,
+        0.25
+      ],
+      "n_sessions": 80,
+      "fixed_periods": 500000,
+      "mean_delta": 0.3165394623439794,
+      "sd_delta": 0.037727524110637234,
+      "converged_frac": 1.0
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "rows": [
+    {
+      "periods": 1000000,
+      "sessions": 8,
+      "eps_at_end": 0.01831563888873418,
+      "delta_mean": 0.5329588073645142,
+      "nash_onpath": 0.0,
+      "either_best_onpath": 0.0,
+      "qloss_onpath": 0.010125614062951526,
+      "qloss_all": 0.017547118055281696
+    },
+    {
+      "periods": 3000000,
+      "sessions": 8,
+      "eps_at_end": 6.14421235332821e-06,
+      "delta_mean": 0.9031157484093699,
+      "nash_onpath": 0.0,
+      "either_best_onpath": 0.125,
+      "qloss_onpath": 0.006073993733236171,
+      "qloss_all": 0.016615428414085982
+    },
+    {
+      "periods": 8000000,
+      "sessions": 8,
+      "eps_at_end": 1.2664165549094176e-14,
+      "delta_mean": 0.9031157484093699,
+      "nash_onpath": 0.0,
+      "either_best_onpath": 0.125,
+      "qloss_onpath": 0.006073993733236171,
+      "qloss_all": 0.016615428414085982
+    }
+  ],
+  "paper": {
+    "freq_nash_onpath": 0.505,
+    "qloss_onpath": 0.001,
+    "max_periods": 1000000000
+  }
+}

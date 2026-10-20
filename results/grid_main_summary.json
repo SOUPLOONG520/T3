@@ -1,0 +1,37 @@
+{
+  "grid": [
+    20,
+    20
+  ],
+  "n_points": 400,
+  "sessions_per_point": 3,
+  "alpha_range": [
+    0.025,
+    0.25
+  ],
+  "beta_range": [
+    0.0,
+    2e-05
+  ],
+  "delta_mean": 0.7643102995375092,
+  "delta_min": 0.20754921710533916,
+  "delta_max": 0.9803844407257417,
+  "nash_mean": 0.0,
+  "punish_multiplier_mean": 0.9130038713888139,
+  "punish_multiplier_min": 0.8038507329789254,
+  "punish_multiplier_max": 1.1011905051834419,
+  "corr_delta_nash": null,
+  "corr_delta_punishment_intensity": 0.5583393079816729,
+  "paper_targets": {
+    "delta_range": [
+      0.7,
+      0.9
+    ],
+    "corr_delta_nash": 0.12,
+    "corr_delta_punish": 0.762,
+    "fig7_colour_range": [
+      0.84,
+      0.96
+    ]
+  }
+}

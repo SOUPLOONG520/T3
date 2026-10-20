@@ -1,0 +1,36 @@
+{
+  "rows": [
+    {
+      "mu": 0.5,
+      "mu_used": 0.5,
+      "n_sessions": 80,
+      "mean_delta": 0.36185365466892583,
+      "sd_delta": 0.073692201882123,
+      "converged_frac": 1.0
+    },
+    {
+      "mu": 0.25,
+      "mu_used": 0.25,
+      "n_sessions": 80,
+      "mean_delta": 0.31256532136590903,
+      "sd_delta": 0.06961526460600782,
+      "converged_frac": 1.0
+    },
+    {
+      "mu": 0.125,
+      "mu_used": 0.125,
+      "n_sessions": 80,
+      "mean_delta": 0.404840194381381,
+      "sd_delta": 0.09263197361634135,
+      "converged_frac": 1.0
+    },
+    {
+      "mu": 0.0,
+      "mu_used": 1e-08,
+      "n_sessions": 80,
+      "mean_delta": NaN,
+      "sd_delta": NaN,
+      "converged_frac": 1.0
+    }
+  ]
+}

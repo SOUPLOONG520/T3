@@ -1,0 +1,40 @@
+{
+  "rows": [
+    {
+      "label": "n=2_beta=4e-6",
+      "n_firms": 2,
+      "beta": 4e-06,
+      "n_sessions": 40,
+      "mean_delta": 0.3252322480140581,
+      "sd_delta": 0.07780683569717294,
+      "converged_frac": 1.0
+    },
+    {
+      "label": "n=3_beta=4e-6",
+      "n_firms": 3,
+      "beta": 4e-06,
+      "n_sessions": 40,
+      "mean_delta": 0.2827613843224115,
+      "sd_delta": 0.010044664923525749,
+      "converged_frac": 1.0
+    },
+    {
+      "label": "n=3_beta=1e-6",
+      "n_firms": 3,
+      "beta": 1e-06,
+      "n_sessions": 40,
+      "mean_delta": 0.29570854270832037,
+      "sd_delta": 0.007310630136719684,
+      "converged_frac": 1.0
+    },
+    {
+      "label": "n=4_beta=4e-6",
+      "n_firms": 4,
+      "beta": 4e-06,
+      "n_sessions": 25,
+      "mean_delta": 0.19302868633795892,
+      "sd_delta": 0.010505892498002734,
+      "converged_frac": 1.0
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "source": "results/representative.npz",
+  "n_sessions": 300,
+  "delta": 0.95,
+  "converged": 300,
+  "delta_mean_all": 0.8367994245681167,
+  "corr_delta_nash": null,
+  "paper_targets": {
+    "1-Sym": 0.277,
+    "1-Asym": 0.366,
+    "2": 0.238,
+    ">=3": 0.119,
+    "avg_delta": 0.849,
+    "freq_nash": 0.505,
+    "qloss_onpath": 0.001,
+    "qloss_all": 0.018
+  },
+  "table": {
+    "1-Sym.": {
+      "n": 75,
+      "frequency": 0.25,
+      "delta_mean": 0.8532950837952665,
+      "delta_sd": 0.11297044451098445,
+      "freq_nash_onpath": 0.0,
+      "freq_either_best": 0.06666666666666667,
+      "qloss_onpath_mean": 0.0069604706145291245,
+      "qloss_onpath_sd": 0.0024224840448318547,
+      "qloss_all_mean": 0.016403273198757975,
+      "qloss_all_sd": 0.002932788761986731
+    },
+    "1-Asym.": {
+      "n": 107,
+      "frequency": 0.3566666666666667,
+      "delta_mean": 0.8558636208596071,
+      "delta_sd": 0.12736294163198497,
+      "freq_nash_onpath": 0.0,
+      "freq_either_best": 0.1308411214953271,
+      "qloss_onpath_mean": 0.005787504281275735,
+      "qloss_onpath_sd": 0.0024730594253263754,
+      "qloss_all_mean": 0.015353123828574379,
+      "qloss_all_sd": 0.002630365530811479
+    },
+    "2": {
+      "n": 69,
+      "frequency": 0.23,
+      "delta_mean": 0.8328173839785546,
+      "delta_sd": 0.09698603423907065,
+      "freq_nash_onpath": 0.0,
+      "freq_either_best": 0.043478260869565216,
+      "qloss_onpath_mean": 0.0068765972247475556,
+      "qloss_onpath_sd": 0.0021269703508110527,
+      "qloss_all_mean": 0.016076517286286188,
+      "qloss_all_sd": 0.002050818804141186
+    },
+    ">=3": {
+      "n": 49,
+      "frequency": 0.16333333333333333,
+      "delta_mean": 0.7755283501896286,
+      "delta_sd": 0.11161519950458895,
+      "freq_nash_onpath": 0.0,
+      "freq_either_best": 0.04081632653061224,
+      "qloss_onpath_mean": 0.008469349051333676,
+      "qloss_onpath_sd": 0.0022138440979427134,
+      "qloss_all_mean": 0.01579485606532972,
+      "qloss_all_sd": 0.0023559321908128224
+    },
+    "all": {
+      "n": 300,
+      "frequency": 1.0,
+      "delta_mean": 0.8367994245681167,
+      "delta_sd": 0.11827471747883118,
+      "freq_nash_onpath": 0.0,
+      "freq_either_best": 0.08,
+      "qloss_onpath_mean": 0.006769271887363732,
+      "qloss_onpath_sd": 0.0025133976054289454,
+      "qloss_all_mean": 0.015854191265064033,
+      "qloss_all_sd": 0.002582403044127933
+    }
+  },
+  "mean_qloss_onpath": 0.006769271887363732,
+  "mean_qloss_all": 0.015854191265064033,
+  "freq_nash_onpath": 0.0,
+  "freq_either_best_onpath": 0.08
+}

@@ -1,0 +1,89 @@
+{
+  "deltas": [
+    0.0,
+    0.1,
+    0.2,
+    0.35,
+    0.5,
+    0.65,
+    0.8,
+    0.9,
+    0.95
+  ],
+  "sessions_per_delta": 80,
+  "fixed_periods": 600000,
+  "rows": [
+    {
+      "delta": 0.0,
+      "n": 80,
+      "mean_delta": 0.2261258536934067,
+      "sd_delta": 0.048877233152289,
+      "mean_pi_final": 0.24883249754429207,
+      "converged_frac": 1.0
+    },
+    {
+      "delta": 0.1,
+      "n": 80,
+      "mean_delta": 0.23378438103959898,
+      "sd_delta": 0.053429541453960436,
+      "mean_pi_final": 0.24970988752999457,
+      "converged_frac": 1.0
+    },
+    {
+      "delta": 0.2,
+      "n": 80,
+      "mean_delta": 0.258015572208262,
+      "sd_delta": 0.0583385971826285,
+      "mean_pi_final": 0.252485904838805,
+      "converged_frac": 1.0
+    },
+    {
+      "delta": 0.35,
+      "n": 80,
+      "mean_delta": 0.25259440458833443,
+      "sd_delta": 0.07858904839998553,
+      "mean_pi_final": 0.2518648352825405,
+      "converged_frac": 1.0
+    },
+    {
+      "delta": 0.5,
+      "n": 80,
+      "mean_delta": 0.2721318648272443,
+      "sd_delta": 0.07550502708412603,
+      "mean_pi_final": 0.2541031209456717,
+      "converged_frac": 1.0
+    },
+    {
+      "delta": 0.65,
+      "n": 80,
+      "mean_delta": 0.2830923359629132,
+      "sd_delta": 0.09313489016047344,
+      "mean_pi_final": 0.25535879415519525,
+      "converged_frac": 1.0
+    },
+    {
+      "delta": 0.8,
+      "n": 80,
+      "mean_delta": 0.2913052507002486,
+      "sd_delta": 0.08592965886484413,
+      "mean_pi_final": 0.25629969686641285,
+      "converged_frac": 1.0
+    },
+    {
+      "delta": 0.9,
+      "n": 80,
+      "mean_delta": 0.3179514523203392,
+      "sd_delta": 0.10667019823322534,
+      "mean_pi_final": 0.25935238694658885,
+      "converged_frac": 1.0
+    },
+    {
+      "delta": 0.95,
+      "n": 80,
+      "mean_delta": 0.31256532136590903,
+      "sd_delta": 0.06961526460600782,
+      "mean_pi_final": 0.25873533132381965,
+      "converged_frac": 1.0
+    }
+  ]
+}
